@@ -7,21 +7,16 @@ it's a crypto currency price monitoring app
 
  * Flutter
  * Dart
- * Firebase
- * SQL
+ * APIs
 
 ## Packages 🔎
 
- * firebase_core
- * firebase_auth
- * cloud_firestore
- * modal_progress_hud
- * flutter_local_notification
- * sqflite
+ * http
+ * cupertino_icons
 
 ## Features 🥇
- * You can register and login with your email
- * Enjoy Chatting with your close friends
+ * monitor crypto currencies price from BitcoinAverage api
+ * get bitcoins price in different currencies
 
 ## IDEs 💻
 
@@ -30,7 +25,7 @@ it's a crypto currency price monitoring app
 
 ## Try the App 📱
 
- * Get the apk of the app from [**Drive**](https://drive.google.com/file/d/1EAEdrmhuQUhaOM0X3FGWJHVNeLvrFrMu/view?usp=drive_link)
+ * Get the apk of the app from [**Drive**](https://drive.google.com/file/d/1BCMRL-EmTyQZcFE6yqxDReIQH8r-u4vP/view?usp=sharing)
 
 ## Setup
 
@@ -39,19 +34,6 @@ it's a crypto currency price monitoring app
 
 ## Gained Experience 💡
 
-## Our Goal
-
-The objective of this tutorial is to learn about using Cupertino and Material Widgets in parallel and providing a different user interface depending on the platform.
-
-
-## What you will create
-
-We’re going to make a crypto currency price checking app. By the end of the module, you'll be able to monitor your bitcoin investents on the move!
-
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/bitcoin-flutter-demo.gif)
-
-## What you will learn
-
 - How to use the DropdownButton Widget from Material design.
 - How to loop through code using Dart for and for-in loops.
 - How to use Cupertino Widgets in your app.
@@ -59,6 +41,13 @@ We’re going to make a crypto currency price checking app. By the end of the mo
 - Revise previous concepts by completing the challenges.
 
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/bitcoin-flutter-demo.gif)
+
+
+## Our Goal
+The objective of this tutorial is to learn about using Cupertino and Material Widgets in parallel and providing a different user interface depending on the platform.
+
+This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+
