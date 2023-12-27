@@ -27,7 +27,7 @@ it's a crypto currency price monitoring app
 
  * Get the apk of the app from [**Drive**](https://drive.google.com/file/d/1BCMRL-EmTyQZcFE6yqxDReIQH8r-u4vP/view?usp=sharing)
 
-## Setup
+## Setup 💽
 
  * clone the repository and run the app on any plugged ios or android Emulator or physical device.
 
