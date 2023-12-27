@@ -3,6 +3,42 @@
 
 it's a crypto currency price monitoring app
 
+## Languages and frameworks 📑
+
+ * Flutter
+ * Dart
+ * Firebase
+ * SQL
+
+## Packages 🔎
+
+ * firebase_core
+ * firebase_auth
+ * cloud_firestore
+ * modal_progress_hud
+ * flutter_local_notification
+ * sqflite
+
+## Features 🥇
+ * You can register and login with your email
+ * Enjoy Chatting with your close friends
+
+## IDEs 💻
+
+ * VS code
+ * Android Studio
+
+## Try the App 📱
+
+ * Get the apk of the app from [**Drive**](https://drive.google.com/file/d/1EAEdrmhuQUhaOM0X3FGWJHVNeLvrFrMu/view?usp=drive_link)
+
+## Setup
+
+ * clone the repository and run the app on any plugged ios or android Emulator or physical device.
+
+
+## Gained Experience 💡
+
 ## Our Goal
 
 The objective of this tutorial is to learn about using Cupertino and Material Widgets in parallel and providing a different user interface depending on the platform.
