@@ -41,8 +41,7 @@ it's a crypto currency price monitoring app
 - Revise previous concepts by completing the challenges.
 
 
-
-
+## ScreenShots 🖼️
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/bitcoin-flutter-demo.gif)
 
 
