@@ -1,7 +1,7 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
 
 # Bitcoin Ticker 🤑
+
+it's a crypto currency price monitoring app
 
 ## Our Goal
 
