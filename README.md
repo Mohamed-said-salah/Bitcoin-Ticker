@@ -23,7 +23,7 @@ it's a crypto currency price monitoring app
  * VS code
  * Android Studio
 
-## Try the App 📱
+## Get the App 📱
 
  * Get the apk of the app from [**Drive**](https://drive.google.com/file/d/1BCMRL-EmTyQZcFE6yqxDReIQH8r-u4vP/view?usp=sharing)
 
